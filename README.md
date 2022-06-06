@@ -4,4 +4,4 @@
 ## Repositório de Github da Dio
 
 ##Links úteis
-[Sintaxe básica MarkDown](httos://www.markdowguide.org/basic-sintax/)
+[Sintaxe básica MarkDown](httos://www.markdownguide.org/basic-sintax/)
